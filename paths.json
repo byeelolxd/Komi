@@ -1,0 +1,12 @@
+{
+  "92312846321453": {
+    "name": "Brazilian hood",
+    "mouse_arg_index": 2,
+    "paths": {
+      "crew_lp": ["Players", "%LP%", "DataFolder", "Information", "Crew"],
+      "crew_enemy": ["Players", "%ENEMY%", "DataFolder", "Information", "Crew"],
+      "ko_enemy": ["Workspace", "Players", "%ENEMY%", "BodyEffects", "K.O"],
+      "grabbed_enemy": ["Workspace", "Players", "%ENEMY%", "BodyEffects", "Grabbed"]
+    }
+  }
+}
