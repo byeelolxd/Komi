@@ -4,5 +4,11 @@
     "Name": "Brazilian hood",
     "Remote": "MainRemoteEvent",
     "Argument": "BRAZILHOODMOUSEPOSx3^3"
+  },
+  "76440108340822": {
+    "Number": 2,
+    "Name": "Pain Hood",
+    "Remote": "MainRemoteEvent",
+    "Argument": "DurrHooDmOsussePosition144125+*-"
   }
 }
